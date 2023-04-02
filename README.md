@@ -1,0 +1,2 @@
+# Predicting-the-variation-of-song-s-popularity-through-different-variables-from-2000-2020
+My project analyzed 18,000 songs to predict popularity based on attributes like valence and danceability. Shorter duration and lower audio valence correlated with higher popularity, and higher danceability increased ratings. Tables displayed top songs and their attributes. Valuable insights were gained for the music industry.
